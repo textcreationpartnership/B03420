@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Familie [sic] exercise, or, The service of God in families.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03420</idno>
+            <idno type="STC">Wing F354A</idno>
+            <idno type="STC">ESTC R176939</idno>
+            <idno type="EEBO-CITATION">51784550</idno>
+            <idno type="OCLC">ocm 51784550</idno>
+            <idno type="VID">174959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174959)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2706:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Familie [sic] exercise, or, The service of God in families.</title>
+               </titleStmt>
+               <extent>[27] p.   </extent>
+               <publicationStmt>
+                  <publisher>and printed there by Robert Bryson and are to be sold at his shop ...,</publisher>
+                  <pubPlace>For Edinburgh, :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Biblical teaching --  Early works to 1800.</term>
+               <term>Family life --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174959:1" rendition="simple:additions"/>
+            <pb facs="tcp:174959:1"/>
+            <pb facs="tcp:174959:2"/>
+            <pb facs="tcp:174959:2"/>
+            <pb facs="tcp:174959:3"/>
+            <pb facs="tcp:174959:3" rendition="simple:additions"/>
+            <p>FAMILIE EXERCISE, OR, The ſervice of God in FAMILIES.</p>
+            <q>
+               <bibl>1. TIM. 4.8.</bibl>
+               <p>Godlineſſe is profitable unto all things, having promiſe of the life that now is, and of that which is to come.</p>
+            </q>
+            <q>
+               <bibl>PSAL. 101.2.</bibl>
+               <p>I will walk within mine houſe with a perfect heart.</p>
+            </q>
+            <p>For EDINBURGH, and printed there by <hi>Robert Bryſon</hi> and are to be ſold at his ſhop, at the ſigne of JONAH. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174959:4"/>
+            <pb facs="tcp:174959:4"/>
+            <head>
+               <g ref="char:leaf">❧</g> The neceſsitie of <hi>Familie Exerciſe.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is not onely requi<g ref="char:EOLhyphen"/>red that every one in the houſe be diligent<g ref="char:EOLhyphen"/>ly imployed in ſome honeſt and profitable buſineſſe, according to their calling,</hi> In the ſweat of thy face thou ſhall eat bread, till thou return unto the ground, <hi>Gen. 3.19.</hi> Let every man abide in the ſame calling wherein hee was called, <hi>1. Cor. 7.20.</hi> There was a certain rich man, which was clothed in purple &amp; fine linnen, and fared ſumptuouſly every day, <hi>Luke 16.19. And that all reſort to the publick worſhip of God in the Congrega<g ref="char:EOLhyphen"/>tion,</hi> Wiſedome cryeth at the gates, at the entrie of the citie, at the coming in at the
+<pb facs="tcp:174959:5"/>doores, <g ref="char:V">Ʋ</g>nto you, O men, I call, and my voice is to the ſons of men, Bleſſed is the man that heareth mee, watching daily at my gates, waiting at the poſts of my doores, <hi>Prov. 8.3, 4, 34.</hi> One thing have I deſired of the Lord, that will I ſeek after, that I may dwell in the houſe of the Lord all the dayes of my life, to behold the beau<g ref="char:EOLhyphen"/>ty of the Lord, and to enquire in his temple, <hi>Pſal. 27.4.</hi> Behold, the dayes come, ſaith the Lord God, that I will ſend a famine in the land, not a famine of bread, nor a thirſt for water, but of hearing the words of the Lord, And they ſhall wander from ſea to ſea, and from the North even to the Eaſt, they ſhall runne to and fro to ſeek the word of the Lord, and ſhall not finde it, <hi>Amos 8.11, 12.</hi> How then ſhall they call on him in whom they have not beleeved? and how ſhall they be<g ref="char:EOLhyphen"/>leeve in him of whom they have not heard? and how ſhall they heare without a preacher? <hi>Rom. 10.14.</hi> And he gave ſome Apoſtles and ſome Prophets, and ſome Evangeliſts and ſome Paſtours and Teachers; for the perfecting of the ſaints, for the work of the miniſterie, for the edifying of the body of
+<pb facs="tcp:174959:5"/>Chriſt, <hi>Epheſ. 4.11.12.</hi> Of his own will be<g ref="char:EOLhyphen"/>gat he us with the word of trueth, that we ſhould be a kinde of firſt-fruits of his cre<g ref="char:EOLhyphen"/>atures. Wherefore, my beloved brethren, let every man be ſwift to heare, ſlow to ſpeak, ſlow to wrath. Wherefore lay apart all filthineſſe, and ſuperfluity of naughtineſſe, and receive with meekneſſe the ingrafted word, which is able to ſave your ſoules, <hi>Jam. 1.18.19.21.</hi> As new-born babes deſire the ſincere milk of the word, that ye may grow thereby, <hi>1. Pet. 2.2.</hi> Therefore we ought to give the more earn<g ref="char:EOLhyphen"/>eſt heed to the things which we have heard, leſt at any time we ſhould let them ſlip, <hi>Heb-2.1.</hi> But one thing is needfull, and <hi>Mary</hi> hath choſen that good part, which ſhall not be taken away from her, <hi>Luke 10.42. And which is yet more, That every one pray, meditate, and worſhip God apart; and ſeverally by themſelves in ſecret.</hi> But thou when thou prayeſt, enter into thy cloſet, and when thou haſt ſhut thy doore, pray to thy Father which is in ſecret, and thy Father which ſeeth in ſecret, ſhall re<g ref="char:EOLhyphen"/>ward thee openly, <hi>Matth. 6.6.</hi> Now when <hi>Daniel</hi> knew that the writing was ſigned,
+<pb facs="tcp:174959:6"/>he went into his houſe; and his windowes be<g ref="char:EOLhyphen"/>ing open in his chamber, toward <hi>Jeruſalem,</hi> hee kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did afore-time, <hi>Dan. 6.10.</hi> For every one that asketh, receiveth; and he that ſeeketh, findeth; and to him that knocketh, it ſhall be opened, <hi>Matth. 7.8.</hi> And <hi>Iſaac</hi> went out to meditate in the field at the even<g ref="char:EOLhyphen"/>tide: and he lift up his eyes, and ſaw, and behold, the camels were coming, <hi>Gen. 24.63.</hi> Pray without ceaſing, <hi>1. Theſſ. 5.17.</hi> Watch yee therefore and pray alwayes, that yee may bee accounted worthy to eſcape all theſe things that ſhall come to paſſe, and to ſtand before the Son of man, <hi>Luke 21.36.</hi> Ye luſt; and have not: Yee kill; and deſire to have, and cannot obtain: ye fight and war, yet ye have not, becauſe ye ask not, <hi>Jam. 4.2. But it is neceſſary alſo that the worſhip of God be ſet up and exerciſed in every Fa<g ref="char:EOLhyphen"/>milie.</hi>
+            </p>
+            <p n="1">
+               <hi>I. Becauſe this is warranted by the word of God, and by the examples of the godly,</hi> And the officers ſhall ſpeak unto the people, ſaying, What man is there that hath built a
+<pb facs="tcp:174959:6"/>new houſe, and hath not dedicated it? let him go and returne to his houſe, leſt he die in the battel, and another man dedicat it. <hi>Deut. 20.5.</hi> A pſalme and ſong at the dedication of the houſe of <hi>David, Pſal. 30. Title.</hi> For I know him, that hee will command his chil<g ref="char:EOLhyphen"/>dren and his houſhold after him, and they ſhall keep the way of the Lord, to do juſtice and judgement: that the Lord may bring up<g ref="char:EOLhyphen"/>on <hi>Abraham</hi> that which hee hath ſpoken of him, <hi>Gen. 18.19.</hi> And if it ſeem evill un<g ref="char:EOLhyphen"/>to you to ſerve the Lord, chooſe you this day whom you will ſerve, whether the gods which your fathers ſerved, that were on the other ſide of the floud, or the gods of the A<g ref="char:EOLhyphen"/>morites, in whoſe land yee dwell: But as for mee and my houſe, wee will ſerve the Lord, <hi>Joſh. 24.15.</hi> A devout man, and one that feared God with all his houſe, which gave much almes to the people, and prayed to God alway, <hi>Acts 10.2.</hi> And yee fathers, provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord, <hi>Epheſ. 6.4.</hi> And a certain woman named <hi>Lydia,</hi> a ſeller of purple, of the citie of Thyatira, which worſhipped God, heard us,
+<pb facs="tcp:174959:7"/>whoſe heart the Lord opened, that ſhe atten<g ref="char:EOLhyphen"/>ded unto the things which were ſpoken of <hi>Paul.</hi> And when ſhe was baptized and her houſhold, ſhe beſought us, ſaying, If ye have judged me to be faithfull to the Lord, come into my houſe and abide there. And ſhe con<g ref="char:EOLhyphen"/>ſtrained us, <hi>Acts 16.14.15.</hi>
+            </p>
+            <p n="2">
+               <hi>II. This not onely ſerveth for the ho<g ref="char:EOLhyphen"/>nour of God, and procureth comfort to the conſcience. and reverence and obedi<g ref="char:EOLhyphen"/>ence to the commandements of the houſe<g ref="char:EOLhyphen"/>holders, but alſo maketh the familie to be a</hi> Bethell, <hi>or the Houſe of God, and bring<g ref="char:EOLhyphen"/>eth upon it bleſſings of all ſorts, and ſafe<g ref="char:EOLhyphen"/>tie,</hi> For bodily exerciſe profiteth little, but godlineſſe is profitable unto all things, ha<g ref="char:EOLhyphen"/>ving promiſe of the life that now is, and of that which is to come, <hi>1. Tim. 4, 8.</hi> Ex<g ref="char:EOLhyphen"/>cept the Lord build the houſe, they labour in vain that build it: Except the Lord keep the citie, the watchman waketh but in vain. It is in vain for you to riſe up early, to ſit up late, to eat the bread of ſorrows. For ſo he giveth his beloved ſleep. Lo, children are an heritage of the Lord: And the fruit of the wombe is his reward, <hi>Pſal. 127.1, 2, 3.</hi>
+               <pb facs="tcp:174959:7"/>Bleſſed is every one that feareth the Lord, that walketh in his wayes: For thou ſhalt eat the labour of thine hands: Happy ſhalt thou be, and it ſhall be well with thee. Thy wife ſhall be as a fruitfull vine by the ſides of thine houſe: thy children like olive plants, round about thy table, <hi>Pſal. 128.1, 2, 3.</hi> And the ark of the Lord continued in the houſe of Obed-edom the Gittite, three moneth: and the Lord bleſſed Obed-edom and all his houſhold, <hi>2. Sam. 6.11.</hi> And thou ſhall know that thy tabernacle ſhall be in peace; &amp; thou ſhalt vi<g ref="char:EOLhyphen"/>ſit thy habitation, &amp; ſhall not ſin, <hi>Job 5.24.</hi> Haſt not thou made an hedge about him, and about his houſe, &amp; about all that he hath on every ſide? Thou haſt bleſſed the work of his hands, &amp; his ſubſtance is increaſed in the land, <hi>Job 1.10. Even as the neglect thereof maketh families to be companies of Athe<g ref="char:EOLhyphen"/>iſts, and dens of theeves, &amp; bringeth down upon them the curſe of God,</hi> The fool hath ſaid in his heart, There is no God: they are corrupt: they have done abominable works; there is none that doth good. Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not
+<pb facs="tcp:174959:8"/>upon the Lord, <hi>Pſal. 14.1, 4.</hi> Powre out thy fury upon the heathen that know thee not; and upon the families that call not on thy name: for they have eaten up <hi>Jacob,</hi> and de<g ref="char:EOLhyphen"/>voured him, and conſumed him, and have made his habitation deſolate, <hi>Jer. 10.25.</hi> The curſe of the Lord is in the houſe of the wicked: but he bleſſeth the habitation of the juſt, <hi>Pro. 3.33.</hi> The houſe of the wicked ſhall be over<g ref="char:EOLhyphen"/>throwne: but the tabernacle of the upright ſhall flouriſh, <hi>Prov. 14.11.</hi>
+            </p>
+            <p n="3">
+               <hi>III. This is a great help to the Kirk and Common-wealth, whereof Families are the ſeminarie. Without it, neither good Lawes in the Citie, nor the word of God in the Kirk are duely regarded.</hi> And God looked upon the earth, and behold it was corrupt: for all fleſh had corrupted his way upon the earth, <hi>Gen. 6.12.</hi> Now the ſons of Eli were ſons of Belial, they knew not the Lord. And he ſaid unto them, Why do ye ſuch things? for I hear of your evill dealings, by all this people. Nay, my ſons: for it is no good report that I heare; ye make the Lords people to tranſgreſſe. If one man ſin againſt another, the Judge ſhall judge him: but if
+<pb facs="tcp:174959:8"/>a man ſin againſt the Lord, who ſhall intreat for him? Notwithſtanding they hearkned not unto the voice of their father, becauſe the Lord would ſlay them, <hi>1. Sam. 2.12.23.24, 25.</hi> So <hi>Joab</hi> aroſe and went to Geſhur, and brought <hi>Abſalom</hi> to Jeruſalem, <hi>2. Sam. 14.23. 2. Sam. 15. 1. King. 1. Upon theſe and the like reaſons, it vvere good that all houſ<g ref="char:EOLhyphen"/>holders ſhould ſay vvith</hi> Joſhua, I and my Family will ſerve the Lord, <hi>Joſh. 24.15.</hi> I and my maides will do the like, <hi>Eſther. 4.16.</hi>
+            </p>
+            <div type="exercise">
+               <head>The parts of Familie Exerciſe.</head>
+               <p n="1">
+                  <hi>I. THe parts of Familie Exerciſe are 1. reading of Scriptures in a con<g ref="char:EOLunhyphen"/>ſtant courſe, that all in the Familie may profit in godlineſſe, and may make the bet<g ref="char:EOLhyphen"/>ter uſe of the publick miniſterie.</hi> And that from a childe thou haſt known the holy ſcri<g ref="char:EOLhyphen"/>ptures, which are able to make thee wiſe un<g ref="char:EOLhyphen"/>to ſalvation, through faith which is in Chriſt Jeſus, <hi>2. Tim. 3.15.</hi> Neither have I gone back from the commandement of his lips, I have eſteemed the words of his mouth,
+<pb facs="tcp:174959:9"/>more then my neceſſary food, <hi>Job. 23.12.</hi>
+               </p>
+               <p n="2">
+                  <hi>II. It is not enough that the members of the Familie come to the Kirk to be ca<g ref="char:EOLhyphen"/>techiſed, but they muſt in a plaine and ea<g ref="char:EOLhyphen"/>ſie manner bee inſtructed at home in the grounds of Chriſtian Religion, and that doctrine which is according to godlineſſe.</hi> Children, obey your parents in the Lord: for this is right. Honour thy father &amp; mo<g ref="char:EOLhyphen"/>ther <hi>(which is the firſt commandement with promiſe)</hi> That it may be well with thee, and thou mayeſt live long on the earth. And ye fathers, provoke not your children to wrath: but bring them up in the nurture &amp; admonition of the Lord, <hi>Epheſ. 6.1, 2, 3, 4.</hi> And theſe words which I command thee this day ſhall be in thine heart. And thou ſhalt teach them diligently unto thy children, &amp; ſhalt talk of them when thou ſitteſt in thine houſe, &amp; when thou walkeſt by the way, &amp; when thou lieſt down, and when thou riſeſt up. And thou ſhal binde them for a ſigne upon thine hand, &amp; they ſhall be as frontlets between thine eies: and thou ſhalt write them upon the posts of thine houſe &amp; on thy gates. And when thy ſon asketh
+<pb facs="tcp:174959:9"/>thee in time to come, ſaying, What mean the teſtimonies, &amp; the ſtatutes, &amp; the judgments which the Lord our God hath commanded you? Then thou ſhalt ſay unto thy ſon, Wee were <hi>Pharaohs</hi> bond men in Egipt, and the Lord brought us out of Egipt with a mightie hand, <hi>Deut. 6.6, 7, 8, 9, 20, 21.</hi> For I know him, that he will command his children, &amp; his houſehold after him, &amp; they ſhall keepe the way of the Lord, to do juſtice and judge<g ref="char:EOLhyphen"/>ment, that the Lord may bring upon <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> that which hee hath ſpoken of him, <hi>Gen. 18.19.</hi>
+               </p>
+               <p n="3">
+                  <hi>III. Prayer and thankſgiving morning and evening, before and after meales with ſinging of pſalmes, when and where it may be had,</hi> The one lamb thou ſhalt offer in the morning, and the other lamb thou ſhalt offer at even, <hi>Exod. 29.39.</hi> And it was ſo when the daies of their feaſting was gone about, that <hi>Job</hi> ſent and ſanctified them, and roſe up early in the morning, &amp; offered burnt offerings according to the num<g ref="char:EOLhyphen"/>ber of them all: For <hi>Job</hi> ſaid, it may be that my ſons have ſinned, &amp; curſed God in their hearts. Thus did <hi>Job</hi> continuallie, <hi>Job. 1.5.</hi>
+                  <pb facs="tcp:174959:10"/>Evening and morning, and at noon will I pray, and cry aloud, and hee ſhall heare my voice, <hi>Pſal. 55.17.</hi> For every creature of God is good, and nothing to be refuſed, if it be received with thankſgiving. For it is ſancti<g ref="char:EOLhyphen"/>fied by the word of God &amp; prayer, <hi>1. Tim. 4.4, 5.</hi> And be not drunk with wine, wherein is exceſſe: but be filled with the ſpirit, ſpeaking to your ſelves in pſalmes &amp; hymnes, &amp; ſpi<g ref="char:EOLhyphen"/>rituall ſongs, ſinging and making melody in your heart to the Lord: Giving thanks al<g ref="char:EOLhyphen"/>wayes, for all things unto God and the Fa<g ref="char:EOLhyphen"/>ther, in the name of our Lord Jeſus Chriſt, <hi>Epheſ. 5.18.19.20.</hi>
+               </p>
+               <p n="4">
+                  <hi>IV. That godlineſſe may be practiſed, there muſt bee exerciſe of diſcipline in vviſedome and patience, by admonition, reproof, and correction for ſuch faults as are proper to be cenſured in the Familie: and if ſervants vvil not amend, by remoo<g ref="char:EOLhyphen"/>ving them: And for this end, diligent ob<g ref="char:EOLhyphen"/>ſerving and vvatching over their vvayes is neceſſary.</hi> And it was ſo when the dayes of their feaſting was gone about, that <hi>Job</hi> ſent and ſanctified them, and roſe up earely in the morning, and offered burnt offerings,
+<pb facs="tcp:174959:10"/>according to the number of them all: for <hi>Job</hi> ſaid, It may be that my ſons have ſinned, and curſed God in their hearts. Thus did <hi>Job</hi> continually, <hi>Job 1.5.</hi> If a man have a ſtub<g ref="char:EOLhyphen"/>borne and rebellious ſon, which will not obey the voice of his father, or the voice of his mother, and that when they have chaſte<g ref="char:EOLhyphen"/>ned him, will not hearken unto them, <hi>Deut. 21.18.</hi> Hee that worketh deceit, ſhall not dwell within my houſe: hee that telleth lies ſhall not tarry in my ſight, <hi>Pſal. 101.7.</hi> And the ſervant abideth not in the houſe for ever: but the ſon abideth ever, <hi>John 8.35.</hi> If I did deſpiſe the cauſe of my man-ſervant, or of my mayd ſervant, when they contended with me, <hi>Job 31.23.</hi> And the aſſe ſaid unto <hi>Balaam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Am not I thine aſſe, upon which thou haſt ridden ever ſince I was thine, unto this day? was I ever wont to do ſo unto thee? And hee ſaid, Nay, <hi>Num. 22.30.</hi> Fooliſhneſſe is bound in the heart of a childe but the rod of correction ſhall drive it far from him, <hi>Prov. 22.15.</hi> He that ſpareth his rod, hateth his ſon: but he that loveth him, chaſteneth him betimes, <hi>Prov. 13.24.</hi>
+               </p>
+               <pb facs="tcp:174959:11"/>
+               <p n="5">
+                  <hi>V. To obſerve the providence of God, and to make uſe of the works of his juſtice and mercy, both paſt and preſent, that he may bee known to bee the Lord,</hi> For I know him, that hee will command his chil<g ref="char:EOLhyphen"/>dren &amp; his houſehold after him, and they ſhall keep the way of the Lord, to do justice and judgement, that the Lord may bring up<g ref="char:EOLhyphen"/>on <hi>Abraham</hi> that which hee hath ſpoken of him, <hi>Gen. 18.19.</hi> Remember that thou mag<g ref="char:EOLhyphen"/>nifie his work, which men behold. Every man may ſee it, man may behold it afar off. Behold God is great, and we know him not, neither can the number of his years be ſearched out, <hi>Job 36.24, 25, 26.</hi>
+               </p>
+               <p n="6">
+                  <hi>VI. Private Faſting and Humiliation, when by publick calamities, or the private diſtreſſe of the Familie, God calleth unto it,</hi> And it came to paſſe when I heard theſe wordes, that I ſate downe and wept, and mourned certaine dayes, &amp; faſted, &amp; prayed before the GOD of Heaven, <hi>Neh. 1.4.</hi> Go, gather together all the Jews that are preſent in Shuſchan, &amp; faſte yee for me, &amp; neither eat nor drink three dayes, night or day: <hi>I</hi> alſo &amp; my maidens will faſte likewiſe, &amp; ſo
+<pb facs="tcp:174959:11"/>will I go in unto the king, which is not ac<g ref="char:EOLhyphen"/>cording to the law, and if I periſh, I periſh, <hi>Eſther 4.16.</hi> And the land ſhall mourne, every family apart; the family of the houſe of <hi>David</hi> apart, and their wives apart; the family of the houſe of <hi>Nathan</hi> apart, and their wives apart, <hi>Zech. 12, 12.</hi> And <hi>Cor<g ref="char:EOLhyphen"/>nelius</hi> ſaid, Foure dayes ago I was faſting un<g ref="char:EOLhyphen"/>till this honre, &amp; at the ninth houre I prayed in mine houſe, and behold, a man ſtood before me in bright clothing. <hi>Acts 10.30. And for afflicting our ſouls, and ſtrangthening our faith, the Scriptures to bee read, and the prayers to be powred forth, muſt bee per<g ref="char:EOLhyphen"/>tinent for the time.</hi>
+               </p>
+               <div type="part">
+                  <head>The dutie of the Maſter of the Familie.</head>
+                  <p>
+                     <hi>TO the Maſter of the houſe belongeth not onely the ordering and ruling of the houſe in wiſedome, the providing of things needfull with diligence, and the gi<g ref="char:EOLhyphen"/>ving of good example in all godlineſſe &amp; gravitie: but alſo the performance of all
+<pb facs="tcp:174959:12"/>the parts of Familie Exerciſe, as to reade, to catechiſe, to pray with, and for the Fa<g ref="char:EOLhyphen"/>milie, to exerciſe diſcipline, to ſhew and ſet forth the works of God, and to direct and order the times and manner of Humi<g ref="char:EOLhyphen"/>liation,</hi> And thou ſhalt teach them diligently unto thy children, and ſhalt talk of them when thou ſitteſt in thine houſe, and when thou walkeſt by the way, and when thou lieſt down, and when thou riſeſt up. And when thy ſon asketh thee in time to come ſaying, What mean the teſtimonies, and the ſtatutes, and the judgements, which the Lord our God hath commanded you? <hi>Deut. 6, 7, 20.</hi> For I know him, that he will command his children &amp; his houſhold after him, and they ſhall keep the way of the Lord, to do juſtice and judge<g ref="char:EOLhyphen"/>ment, that the Lord may bring upon <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> that which hee hath ſpoken of him, <hi>Gen. 18.19.</hi> Heare ye children the instru<g ref="char:EOLhyphen"/>ction of a father, and attend to know under<g ref="char:EOLhyphen"/>ſtanding, <hi>Pro. 4.1.</hi> And they ſaid unto him, Where wilt thou that we prepare? And hee ſaid unto them, Behold, when ye are entred into the citie, there ſhall a man meet you, bea<g ref="char:EOLhyphen"/>ring a pitcher of water, follow him into the
+<pb facs="tcp:174959:12"/>houſe where hee entreth in, <hi>Luke 22.9.10. And upon juſt and neceſſary cauſes diſ<g ref="char:EOLhyphen"/>abling the Maſter of the Familie, or draw<g ref="char:EOLhyphen"/>ing him away, they ought to be performed by ſome other member of the Familie</hi> Who then is a wiſe and faithfull ſervant, whom his lord hath made him ruler over his houſhold, to give them meat in due ſea<g ref="char:EOLhyphen"/>ſon? <hi>Mat. 24, 45,</hi> And <hi>Abraham</hi> ſaid, Lord God, what wilt thou give me, ſeeing I go childleſſe? and the ſteward of my houſe is this <hi>Eliezer</hi> of Damaſcus, <hi>Gen. 15.2.</hi> And it came to paſſe from the time that hee had made him over ſeer in his houſe, and over all that hee had, that the Lord bleſſed the Egyp<g ref="char:EOLhyphen"/>tians houſe for <hi>Joſephs</hi> ſake: &amp; the bleſsing of the Lord was upon all that he had in the houſe, &amp; in the field, <hi>Gen, 39, 5. And in all theſe Familie Exerciſes, &amp; whole govern<g ref="char:EOLhyphen"/>ment of the houſe, the Miſtreſſe of the Fa<g ref="char:EOLhyphen"/>mily hath a ſpeciall hand,</hi> I will there<g ref="char:EOLhyphen"/>fore that the younger women marry, beare children, guide the houſe, give none occaſion to the adverſary to ſpeak reprochfully, <hi>1. Ti. 5.14. Prov. 31. from verſ. 10. to the end.</hi> The aged women likewiſe, that they be in be<g ref="char:EOLhyphen"/>haviour
+<pb facs="tcp:174959:13"/>as becometh holineſſe, not falſe accu<g ref="char:EOLhyphen"/>ſers, not given to much wine, teachers of good things: Thal they may teach the young wo<g ref="char:EOLhyphen"/>men to be ſober, to love their husbands, to love their children: To be diſcreet, chaſte, keepers at home, good, obedient to their own husbands, that the word of God be not blaſ<g ref="char:EOLhyphen"/>phemed, <hi>Tit. 2.3, 4, 5.</hi> And he began to ſpeak boldly in the ſynagogue: whom when Aquila and Priſcilla had heard, they took him unto them, and expounded unto him the way of God more perfectly, <hi>Acts 18.26.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The times of Familie Exerciſe.</head>
+                  <p>THe fitteſt times for Familie Exerciſe, muſt be choſen by the wiſedome and diſcretion of the governours of the Fami<g ref="char:EOLhyphen"/>lie, as the morning before they put their hands to worke, and the evening when the dayes worke is ended, and the time of reſt draweth on, and ſuch other houres as may bee beſt ſpared from the dueties of their particular vocation. Upon the Lords day the Familie is to be brought to the Kirk:
+<pb facs="tcp:174959:13"/>they are to behave themſelves quietly and religiouſly as in the preſence of God, and when the publick worſhip is ended, the fa<g ref="char:EOLhyphen"/>mily is to be conveened, and the Maſter of the Family beginning and ending with prayer, is to take account of what they have heard, with inſtruction, admonition, and exhortation, that they may profit in the knowledge and obedience of the will of God. <hi>But the ſeventh day is the ſabbath of the Lord thy God, in it thou ſhalt not do any work, thou nor thy ſon, nor thy daughter, thy man-ſervant, nor thy maid ſervant, nor thy cattel, nor thy ſtranger that is within thy gates,</hi> Exod. 20.10. <hi>And the morrow after they entered into Ceſarea: and</hi> Cornelius <hi>waited for them, and hee called together his Kinſmen and near friends,</hi> Acts 10.24.</p>
+               </div>
+               <div type="part">
+                  <head>The manner and matter of prayers in the Family.</head>
+                  <p>THe prayers of the holy men of God in Scripture, are framed according to
+<pb facs="tcp:174959:14"/>their own eſtate, and the eſtate of the Kirk for the time, &amp; conforme to that perfect prayer of our Lord, <hi>Matth.</hi> 6. <hi>Luke</hi> 11.</p>
+                  <p>So many as can conceive a Prayer, ought to make uſe of the gift of God. Others who are rude &amp; weaker, may begin with a ſet forme of prayer, but ſo as they be not ſluggiſh in ſtirring up in themſelves accor<g ref="char:EOLhyphen"/>ding to their daily neceſſities, the ſpirit of prayer, which is given to all the children of God in ſome meaſure, <hi>And I will powre up<g ref="char:EOLhyphen"/>on the houſe of</hi> David, <hi>&amp; upon the inhabi<g ref="char:EOLhyphen"/>tants of Jeruſalem, the ſpirit of grace &amp; ſup<g ref="char:EOLhyphen"/>plications: &amp; they ſhall look upon mee whom they have pierced, &amp; they ſhall mourn for him, as one mourneth for his onely ſon, &amp; ſhal be in bitterneſſe for him, as one that is in bit<g ref="char:EOLhyphen"/>terneſſe for his firſt born,</hi> Zecha. 12.10. And for this end, they may beginne with theſe following particulars, and other the like.</p>
+                  <p n="1">I. Let them confeſſe to God how un<g ref="char:EOLhyphen"/>worthie they are to come in his preſence, &amp; how unfit to worſhip God, and eſpeci<g ref="char:EOLhyphen"/>ally to pray, and therefore earneſtly aske of God, the ſpirit of prayer.</p>
+                  <p n="2">II. They are to confeſſe their ſinnes, &amp;
+<pb facs="tcp:174959:14"/>all the ſins of the familie; accuſing, judging and condemning themſelves for them, till they bring their ſoules to ſome meaſure of true humiliation.</p>
+                  <p n="3">III. They are to give thanks to God for his many mercies to his people, and to themſelves, and eſpecially for his love in Chriſt, and for the light of the Goſpell.</p>
+                  <p n="4">IV. They are to powre out their ſoules to GOD in the name of Chriſt by the ſpirit for forgiveneſſe of ſin, for grace to repent, to beleeve, and to live ſoberlie, righteouſly, and godly, and that they may ſerve God with joy and delight walking before him.</p>
+                  <p n="5">V. They are to pray for ſuch particu<g ref="char:EOLhyphen"/>lar benefites, ſpirituall and temporall, as they ſtand in need of for the time, whether it bee morning or evening, health or ſick<g ref="char:EOLhyphen"/>neſſe, proſperitie or adverſitie.</p>
+                  <p n="6">VI. They ought to pray for the Kirk of Chriſt in generall, for all the Reformed Kirks, and for this Kirk in particular, and for all that ſuffer for the Name of Chriſt, for all our Superiours, the Kings Majeſtie, the Queene and their Children; for the
+<pb facs="tcp:174959:15"/>Magiſtrates, Miniſters, and vvhole body of the Citie; aſvvell for our neighbours abſent in their lavvful affaires, as for thoſe that are at home.</p>
+                  <p n="7">VII. The prayer may be cloſed vvith an earneſt deſire, that God may be glorifi<g ref="char:EOLhyphen"/>ed in the comming of the Kingdome of his Son, and in the doing of his vvil, and vvith aſſurance that themſelves are accepted, and vvhat they have asked according to his vvill ſhall be done,</p>
+               </div>
+               <div type="part">
+                  <head>Prayer and thankeſgiving before and after meat.</head>
+                  <p>PRayer and thankeſgiving are to be joi<g ref="char:EOLhyphen"/>ned vvith our ordinary meales before &amp; after, not by a child or a ſervant (except for themſelvs vvhen they take meat apart) but by the Maſter of the family, all lifting up their hearts to God from a deep feeling of their ovvne indigence, from an carneſt deſire of the bleſſing of God upon them<g ref="char:EOLhyphen"/>ſelves and their refreſhment, and from the
+<pb facs="tcp:174959:15"/>lively ſenſe of the fatherly care and good providence of God tovvard them: B ſee ching the Lord, that their eating and drink<g ref="char:EOLhyphen"/>ing, and vvhatſoever they doe, may be to his glory, and for enabling them to the duties of their callings, and that he vvould increaſe grace in their hearts, make them content vvith their condition of life, and make them meet for the Kingdome of heaven, and ſo forth, as Chriſtian prudence ſhall direct.</p>
+               </div>
+               <div type="part">
+                  <head>This Familie Exerciſe to bee begunne without delay.</head>
+                  <p>THe great mercies of God to this land, the late renevving of our Covenant vvith God, and the many ſvveet fruites vvhich ſhall bee reaped by this religious exerciſe, doe call upon us for a preſent doing vvithout delay, againſt all excuſes, vvhether of old age and former negli<g ref="char:EOLhyphen"/>gence, or of vvorldly buſineſſe and hin<g ref="char:EOLhyphen"/>derances,
+<pb facs="tcp:174959:16"/>or of the mockings of Atheiſts and prophane men. And therefore all Fa<g ref="char:EOLhyphen"/>milies muſt be inſtantly ordered, Diſci<g ref="char:EOLhyphen"/>pline exerciſed againſt ſwearers, curſers, lyars, drunkards, prophane or negligent obſervers of the Sabbath, idle bellies, and ſuch others: and till the Catechiſme ap<g ref="char:EOLhyphen"/>pointed by the Generall Aſſembly come to our hands, the ſhort Catechiſme which hath beene in uſe, may be ſtill uſed, and all made to underſtand the Ten Commande<g ref="char:EOLhyphen"/>ments, the Beliefe, Lords Prayer, and do<g ref="char:EOLhyphen"/>ctrine of the Sacraments; and all other parts of family exerciſe above expreſſed, are to beginne ſo ſoone as may bee; In confidence that the holy Spirit, which our Heavenly Father will give to them that aske him, ſhall helpe our infirmities. <hi>If yee then, being evill, know how to give good gifts unto your children: how much more ſhall your heavenly father give the holy Spirit to them that ask him,</hi> Luke 11.13. <hi>Likewiſe the Spirit alſo helpeth our infirmi<g ref="char:EOLhyphen"/>ties: for we know not what we ſhould pray for as we ought: but the Spirit it ſelf maketh in<g ref="char:EOLhyphen"/>terceſsion for us with groanings, which can
+<pb facs="tcp:174959:16"/>not be uttered. And hee that ſearcheth the heart, knoweth what is the minde of the Spirit, becauſe he maketh interceſsion for the Saints, according to the will of God,</hi> Rom. 8.26, 27. <hi>And I will powre upon the houſe of</hi> David, <hi>and upon the inhabitants of Jeruſalem, the Spirit of grace and of ſup<g ref="char:EOLhyphen"/>plications: and they ſhall look upon mee whom they have pierced, and they ſhall mourn for him, as one mourneth for his onely ſon, and ſhall be in bitterneſſe for him, as one that is in bitterneſſe for his first-born</hi> Zech. 12.10.</p>
+                  <p>
+                     <hi>Bleſſed and preſerved ſhalt thou be when thou comeſt in, and bleſſed and preſerved ſhalt thou be when thou goeſt out, from this time forth, and even for evermore,</hi> Deut. 28.6. Pſal. 121.8.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:174959:17"/>
+                  <pb facs="tcp:174959:17"/>
+                  <pb facs="tcp:174959:18"/>
+                  <pb facs="tcp:174959:18"/>
+                  <pb facs="tcp:174959:19"/>
+                  <pb facs="tcp:174959:19"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
